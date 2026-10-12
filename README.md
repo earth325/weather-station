@@ -2,3 +2,4 @@
 project bracket weather station
 - ethan wu
 - Justin Veda
+- Keone Scott
